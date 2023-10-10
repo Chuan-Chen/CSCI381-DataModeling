@@ -1,5 +1,5 @@
 ------------------------------
-Information: 
+## Information: 
 
 CDM (Conceptual Data Model):
 The Conceptual Data Model is the highest-level data model in the data modeling process.
@@ -22,16 +22,16 @@ In summary, CDM provides a high-level, business-oriented view of data, LDM refin
 
 ------------------------------
 
-Table of Contents
+## Table of Contents
 
-1. [1](#1) step 1: First I drafted all the entites that I think would exits within a streaming service.
-2. [2](#2) step 2: Then I drafted the relationships they would have between each other
-3. [3](#3) step 3: Then I add the attributes I think each entity should have.
-4. [4](#4) step 4: Further refine the relationships between each entity.
-5. [5](#5) step 5: Next is checking what data type each attribute for the entities should be.
-6. [6](#6) step 6: Following that is to create the first Data Model on Erwin and that is the Conceptual Data Model or the CDM. And add business definitions to each entity at this level.
-7. [7](#7) step 7: After creating the CMD you can use the "auto populate" option under "Diagram" > "Diagrams..." 
-8. [8](#8) step 8: Once that has been done the Physical Data Model should auto generate as well. After some modifications also some adjustments are needed to be made to the diagram itself because each model exists by itself as its own diagram.
+* [Step 1](#1) : First I drafted all the entites that I think would exits within a streaming service.
+* [Step 2](#2) : Then I drafted the relationships they would have between each other
+* [Step 3](#3) : Then I add the attributes I think each entity should have.
+* [Step 4](#4) step 4: Further refine the relationships between each entity.
+* [Step 5](#5) step 5: Next is checking what data type each attribute for the entities should be.
+* [Step 6](#6) step 6: Following that is to create the first Data Model on Erwin and that is the Conceptual Data Model or the CDM. And add business definitions to each entity at this level.
+* [Step 7](#7) step 7: After creating the CMD you can use the "auto populate" option under "Diagram" > "Diagrams..." 
+* [Step 8](#8) step 8: Once that has been done the Physical Data Model should auto generate as well. After some modifications also some adjustments are needed to be made to the diagram itself because each model exists by itself as its own diagram.
 
 
 ------------------------------
