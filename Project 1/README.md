@@ -207,3 +207,7 @@ Reviews Table:
 <a name = "8">[Step 8]</a>: Once that has been done the Physical Data Model should auto generate as well. After some modifications also some adjustments are needed to be made to the diagram itself because each model exists by itself as its own diagram.
 
 <img src = "./img/PDM.png">
+
+## Conclusions: 
+
+This project taught me alot about creating a database. I took countless hours searching the web on tutorials and how tos. Erwin DM made it pretty easy as it was pretty intuitive after using it for so long. My take away from this project is to slow down and take things slowly I tried to rush into doing things all at once and that didn't end too well.
