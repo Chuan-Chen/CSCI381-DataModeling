@@ -39,8 +39,6 @@ In summary, CDM provides a high-level, business-oriented view of data, LDM refin
 
 - [Step 8](#8): Once that has been done the Physical Data Model should auto generate as well. After some modifications also some adjustments are needed to be made to the diagram itself because each model exists by itself as its own diagram.
 
-- [Step 9](#9): 
-
 - [Conclusions](#conclusions)
 
 ------------------------------
