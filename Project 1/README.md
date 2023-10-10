@@ -1,5 +1,5 @@
 ------------------------------
-## Information: 
+# Information: 
 
 CDM (Conceptual Data Model):
 The Conceptual Data Model is the highest-level data model in the data modeling process.
@@ -23,7 +23,6 @@ In summary, CDM provides a high-level, business-oriented view of data, LDM refin
 ------------------------------
 
 ## Table of Contents
-
 - [Step 1](#1): First I drafted all the entites that I think would exits within a streaming service.
 
 - [Step 2](#2): Then I drafted the relationships they would have between each other
@@ -40,6 +39,7 @@ In summary, CDM provides a high-level, business-oriented view of data, LDM refin
 
 - [Step 8](#8): Once that has been done the Physical Data Model should auto generate as well. After some modifications also some adjustments are needed to be made to the diagram itself because each model exists by itself as its own diagram.
 
+- [Conclusions](#conclusions)
 
 ------------------------------
 
